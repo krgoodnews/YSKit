@@ -1,3 +1,5 @@
+import UIKit
+
 class YSView: UIView {
 	
 	func setupView() {
