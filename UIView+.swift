@@ -1,10 +1,3 @@
-//
-//  UIView+.swift
-//  YSKit
-//
-//  Created by Goodnews on 2018. 3. 15..
-//  Copyright © 2018년 krgoodnews. All rights reserved.
-//
 
 import UIKit
 
